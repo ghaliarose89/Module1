@@ -58,13 +58,16 @@ body {
     padding: 60px;
     
   }
+  /* hero home page*/
   .hero {
     background-image: url("hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position:center;
-    position: relative;
-  }
+    position: relative;}
+
+    
+  
   .hero-form{
   border: 3px solid #024e76;
   background-color: #fce138;
